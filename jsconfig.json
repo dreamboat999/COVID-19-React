@@ -1,28 +1,17 @@
 {
-    "compilerOptions": {
-        "target": "es2015",
-        "baseUrl": "src",
-        "jsx": "react",
-        "paths": {
-            "components:/*": [
-                "./components/*"
-            ],
+  "compilerOptions": {
+    "target": "es2015",
+    "baseUrl": "src",
+    "jsx": "react",
+    "paths": {
+      "components:/*": ["./components/*"],
 
-            "containers:/*": [
-                "./containers/*"
-            ],
+      "containers:/*": ["./containers/*"],
 
-            "assets:/*": [
-                "./assets/*"
-            ],
+      "assets:/*": ["./assets/*"],
 
-            "commons:/*": [
-                "./commons/*"
-            ]
-        } 
-    },
-    "exclude": [
-        "node_modules",
-        "build"
-    ]
+      "commons:/*": ["./commons/*"]
+    }
+  },
+  "exclude": ["node_modules", "build"]
 }

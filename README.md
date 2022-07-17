@@ -4,7 +4,7 @@
   <a href="https://github.com/lucasrmagalhaes/covid19-react/issues?q=is%3Aopen+is%3Aissue">
     <img src="https://img.shields.io/github/issues-raw/lucasrmagalhaes/covid19-react?style=plastic" title="Open Issues" /> 
   </a>
-  
+   
   <a href="https://github.com/lucasrmagalhaes/covid19-react/issues?q=is%3Aissue+is%3Aclosed">
     <img src="https://img.shields.io/github/issues-closed-raw/lucasrmagalhaes/covid19-react?style=plastic" title="Closed Issues" /> 
   </a>
